@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-3d-cube": "^1.0.5",
+    "swiper": "^11.1.12"
+  }
+}
